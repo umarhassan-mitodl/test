@@ -1,5 +1,9 @@
-mainmenu:
-- identifier: d0278726-f667-4ae0-8f30-bbac5350d37d
-  name: testlink
-  pageRef: /resource_collections/testcollection
+leftnav:
+- identifier: 2a288a70-d9a3-4eeb-8542-29b25632bce0
+  name: google
+  pageRef: /external-resources/google
   weight: 10
+- identifier: 9951bf46-43b6-43f5-8da9-fc24a87a10dc
+  name: mit
+  pageRef: /external-resources/mit
+  weight: 20
