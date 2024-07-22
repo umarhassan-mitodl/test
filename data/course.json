@@ -12,19 +12,13 @@
     "content": "",
     "website": "test"
   },
-  "course_title": "Test",
+  "course_title": "test",
   "hide_download": false,
   "course_description": "",
-  "department_numbers": [
-    "1"
-  ],
+  "department_numbers": [],
   "extra_course_numbers": "",
   "primary_course_number": "1",
-  "course_image_thumbnail": {
-    "content": "",
-    "website": "test"
-  },
   "learning_resource_types": [],
-  "site_uid": "57d64229-0e07-488a-b57b-a6776cae3994",
+  "site_uid": "80610dd1-1495-444d-b3c8-60221326d3b7",
   "site_short_id": "test"
 }
