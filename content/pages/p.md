@@ -38,4 +38,4 @@ The course grade is based on weekly {{% resource_link "3c0c3309-a93d-41e3-adcc-9
 
  
 
-URL\_TEST
+[URL\_TEST](http://localhost:8043/sites/test/type/page/edit/d0c60158-d07c-410e-8c95-6225237ee197/www.google.com/url_\(with\)_test/)
