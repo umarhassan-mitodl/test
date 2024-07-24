@@ -5,7 +5,7 @@ draft: false
 title: p
 uid: d0c60158-d07c-410e-8c95-6225237ee197
 ---
-Hello \\\\(E=mc^2\\\\) cool.
+Hello \\(E=mc^2\\) cool.
 
  
 
