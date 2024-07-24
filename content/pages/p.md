@@ -22,9 +22,9 @@ The development of quantum field theory (QFT) and string theory in the last four
 ## Topics
 
 1. Generalities on classical and quantum mechanics and field theory.
-2. 0-dimensional QFT: Stationary phase (steepest descent) formula. Calculus of Feynman diagrams with applications to combinatorics. Matrix models, large \\(N\\) limits. Applications to moduli space of curves and planar graphs.
+2. 0-dimensional QFT: Stationary phase (steepest descent) formula. Calculus of Feynman diagrams with applications to combinatorics. Matrix models, large \\(N\\) limits. Applications to moduli space of curves and planar graphs.
 3. 1-dimensional QFT: Formalism of classical mechanics. Lagrangians, Hamiltonians, least action principle. Path integral approach to quantum mechanics. Correlation functions. Perturbative expansion using Feynman diagrams. Hamiltonian approach and operator formalism. Feynman-Kac formula.
-4. \\(d\\)-dimensional QFT for \\(d > 1\\): Formalism of classical field theory. Gauge theories. Path integral and hamiltonian approaches to QFT. Wightman axioms. Free field theories. Perturbative expansion. Divergences. Renormalization theory.
+4. \\(d\\)\-dimensional QFT for \\(d > 1\\): Formalism of classical field theory. Gauge theories. Path integral and hamiltonian approaches to QFT. Wightman axioms. Free field theories. Perturbative expansion. Divergences. Renormalization theory.
 5. Supergeometry and field theories with fermions.
 6. Introduction to 2-dimensional conformal field theory.    
 
@@ -35,3 +35,7 @@ A recommended textbook for the course is [Quantum Fields and Strings: A Course f
 ## Assignments and Grading
 
 The course grade is based on weekly {{% resource_link "3c0c3309-a93d-41e3-adcc-9e42cd993567" "homework" %}}, which is required for those taking the course for credit.
+
+ 
+
+[URL\_TEST](www.google.com/url_\(with\)_test/)
