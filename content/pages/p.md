@@ -22,15 +22,15 @@ The development of quantum field theory (QFT) and string theory in the last four
 ## Topics
 
 1. Generalities on classical and quantum mechanics and field theory.
-2. 0-dimensional QFT: Stationary phase (steepest descent) formula. Calculus of Feynman diagrams with applications to combinatorics. Matrix models, large (N) limits. Applications to moduli space of curves and planar graphs.
+2. 0-dimensional QFT: Stationary phase (steepest descent) formula. Calculus of Feynman diagrams with applications to combinatorics. Matrix models, large \\(N\\) limits. Applications to moduli space of curves and planar graphs.
 3. 1-dimensional QFT: Formalism of classical mechanics. Lagrangians, Hamiltonians, least action principle. Path integral approach to quantum mechanics. Correlation functions. Perturbative expansion using Feynman diagrams. Hamiltonian approach and operator formalism. Feynman-Kac formula.
-4. (d)-dimensional QFT for (d > 1): Formalism of classical field theory. Gauge theories. Path integral and hamiltonian approaches to QFT. Wightman axioms. Free field theories. Perturbative expansion. Divergences. Renormalization theory.
+4. (d)-dimensional QFT for \\(d > 1\\): Formalism of classical field theory. Gauge theories. Path integral and hamiltonian approaches to QFT. Wightman axioms. Free field theories. Perturbative expansion. Divergences. Renormalization theory.
 5. Supergeometry and field theories with fermions.
 6. Introduction to 2-dimensional conformal field theory.    
 
 ## Textbook and Lecture Notes
 
-A recommended textbook for the course is [*Quantum Fields and Strings: A Course for Mathematicians*](https://bookstore.ams.org/qft-1-2-s/), AMS, 1998 (but we won't closely follow it). Instead, we will follow the {{% resource_link "31d9336e-079d-41c3-955c-49516bec6dfe" "lecture notes" %}}.   
+A recommended textbook for the course is [Quantum Fields and Strings: A Course for Mathematicians](https://bookstore.ams.org/qft-1-2-s/), AMS, 1998 (but we won't closely follow it). Instead, we will follow the {{% resource_link "31d9336e-079d-41c3-955c-49516bec6dfe" "lecture notes" %}}.   
 
 ## Assignments and Grading
 
