@@ -9,6 +9,12 @@ uid: b975184b-fe80-4c39-bcf6-284ac2083f12
 
 [http://name.com/](http://name.com/)
 
- 
+http://name.com/ 
+
+this has override the LinkUI and its working fine. but when I paste a link, that is not overridden
 
 {{% resource_link "b7c0b506-9dd8-42c9-b9c6-5c40d79da24f" "http://name.com/" %}}
+
+ 
+
+{{% resource\_link "b7c0b506-9dd8-42c9-b9c6-5c40d79da24f" "http://name.com/" %}}
