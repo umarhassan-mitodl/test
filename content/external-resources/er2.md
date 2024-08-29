@@ -1,10 +1,10 @@
 ---
 backup_url: ''
 content_type: external-resource
-external_url: http://localhost:8043/sites/test/type/page/new/google
+external_url: google.com
 has_external_license_warning: false
 is_broken: ''
 license: https://en.wikipedia.org/wiki/All_rights_reserved
-title: google
-uid: 32fa6176-c34b-4675-89a9-e105d046ab38
+title: er2
+uid: 62202bc5-fabc-4f78-a8ae-84bc5ded215b
 ---
