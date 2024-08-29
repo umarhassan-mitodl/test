@@ -1,10 +1,10 @@
 ---
 backup_url: ''
 content_type: external-resource
-external_url: https://ocw.mit.edu
+external_url: google.com
 has_external_license_warning: false
 is_broken: ''
 license: https://en.wikipedia.org/wiki/All_rights_reserved
-title: MIT
-uid: 595665b2-5c9f-42c9-8ecb-08568ce2e03b
+title: er2
+uid: 62202bc5-fabc-4f78-a8ae-84bc5ded215b
 ---
