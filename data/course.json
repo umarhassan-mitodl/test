@@ -1,6 +1,6 @@
 {
   "term": "",
-  "year": "2003",
+  "year": "2001",
   "level": [],
   "topics": [],
   "legacy_uid": "",
@@ -18,9 +18,9 @@
   "department_numbers": [
     "1"
   ],
-  "extra_course_numbers": "2",
+  "extra_course_numbers": "",
   "primary_course_number": "1",
   "learning_resource_types": [],
-  "site_uid": "86a49969-d0b0-41f5-a3aa-84ee4ca3e9c3",
+  "site_uid": "4577b2b1-278e-42c8-be1d-6f36a9c9e6c3",
   "site_short_id": "test"
 }
