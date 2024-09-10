@@ -13,7 +13,7 @@
     "website": "test"
   },
   "course_title": "test",
-  "hide_download": false,
+  "hide_download": true,
   "course_description": "test",
   "department_numbers": [
     "1"
@@ -21,6 +21,6 @@
   "extra_course_numbers": "",
   "primary_course_number": "1",
   "learning_resource_types": [],
-  "site_uid": "4577b2b1-278e-42c8-be1d-6f36a9c9e6c3",
+  "site_uid": "e176453a-5563-4300-9818-02ca53e8521e",
   "site_short_id": "test"
 }
