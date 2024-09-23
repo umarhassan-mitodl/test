@@ -1,1 +1,5 @@
-leftnav: []
+leftnav:
+- identifier: d86171d0-ced2-46d9-aec1-6ae873d5ec4c
+  name: P2
+  pageRef: /pages/p2
+  weight: 10
