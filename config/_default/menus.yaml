@@ -3,3 +3,7 @@ leftnav:
   name: P2
   pageRef: /pages/p2
   weight: 10
+- identifier: c411f848-1c06-4a0d-8cd6-d946ced608b6
+  name: page
+  pageRef: /pages/umar
+  weight: 20
