@@ -5,5 +5,8 @@ leftnav:
   weight: 10
 - identifier: c411f848-1c06-4a0d-8cd6-d946ced608b6
   name: page
-  pageRef: /pages/umar
   weight: 20
+- identifier: 02da8bc8-2200-4172-b08f-6e9bf48e9ca1
+  name: ex
+  pageRef: /external-resources/httpswwwgooglecomclientsafari
+  weight: 30
