@@ -13,7 +13,7 @@
     "website": "test"
   },
   "course_title": "test",
-  "hide_download": false,
+  "hide_download": true,
   "mit_learn_topics": [],
   "course_description": "test",
   "department_numbers": [
@@ -22,6 +22,6 @@
   "extra_course_numbers": "",
   "primary_course_number": "1",
   "learning_resource_types": [],
-  "site_uid": "e176453a-5563-4300-9818-02ca53e8521e",
+  "site_uid": "0e685cdb-cb18-4bee-867a-c85d776ba8f4",
   "site_short_id": "test"
 }
