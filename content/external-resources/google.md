@@ -1,10 +1,10 @@
 ---
-backup_url: ''
 content_type: external-resource
-external_url: umar.com
-has_external_license_warning: false
-is_broken: ''
+external_url: http://abc.com
+has_external_license_warning: true
 license: https://en.wikipedia.org/wiki/All_rights_reserved
+status: ''
 title: google
-uid: fe5ed9fc-c894-4c76-b60b-5a7b3572839f
+uid: 69bae3d2-8c05-42d0-bdaf-bdd785840b6c
+wayback_url: ''
 ---
