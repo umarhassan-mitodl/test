@@ -1,10 +1,10 @@
 ---
 content_type: external-resource
-external_url: http://google.com
-has_external_license_warning: true
+external_url: http://ocw.mit.edu
+has_external_license_warning: false
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: ''
-title: google
-uid: 8dffafb0-5530-4ee5-90c9-33691c7701f6
+title: OCW
+uid: 8504cac8-b335-4581-8be2-4c22bd12845a
 wayback_url: ''
 ---
