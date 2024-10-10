@@ -13,7 +13,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: recordding.mov
-uid: 99054c43-9113-4b71-bf29-33db7e228f6b
+uid: 6a6ce616-ed30-4227-bcda-2080e576e09a
 video_files:
   archive_url: ''
   video_captions_file: ''
