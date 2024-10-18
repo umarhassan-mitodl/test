@@ -19,9 +19,9 @@
   "department_numbers": [
     "1"
   ],
-  "extra_course_numbers": "",
-  "primary_course_number": "1",
+  "extra_course_numbers": "1",
+  "primary_course_number": "test",
   "learning_resource_types": [],
-  "site_uid": "71f195d0-e73d-4765-84ab-cfa347a8b0f6",
+  "site_uid": "2dbbcbb6-1d0c-45c4-9008-93860d68d9dc",
   "site_short_id": "test"
 }
