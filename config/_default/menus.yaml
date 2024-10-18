@@ -3,3 +3,7 @@ leftnav:
   name: link
   pageRef: /external-resources/httpgooglecom_79ce879f-79e5-45bc-92d5-d9edbb7a41c4
   weight: 10
+- identifier: 3c7e3399-fa44-4e08-aedb-458100c21dbb
+  name: page
+  pageRef: /pages/p1
+  weight: 20
