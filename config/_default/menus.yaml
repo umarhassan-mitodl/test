@@ -1,12 +1,5 @@
 leftnav:
-- identifier: d86171d0-ced2-46d9-aec1-6ae873d5ec4c
-  name: P2
-  pageRef: /pages/p2
-  weight: 10
-- identifier: c411f848-1c06-4a0d-8cd6-d946ced608b6
+- identifier: cb76f995-e613-4c11-b765-1e7fd8930ca4
   name: page
-  weight: 20
-- identifier: 02da8bc8-2200-4172-b08f-6e9bf48e9ca1
-  name: ex
-  pageRef: /external-resources/httpswwwgooglecomclientsafari
-  weight: 30
+  pageRef: /external-resources/page_cb76f995-e613-4c11-b765-1e7fd8930ca4
+  weight: 10
