@@ -1,5 +1,10 @@
 leftnav:
-- identifier: cb76f995-e613-4c11-b765-1e7fd8930ca4
-  name: page
-  pageRef: /external-resources/page_cb76f995-e613-4c11-b765-1e7fd8930ca4
+- identifier: f4a67012-8572-4fd2-8f03-acdee3dfac72
+  name: m
+  pageRef: /resources/test1_png
+  weight: 10
+- identifier: 747569bd-dfad-49bc-8a7a-c02f396a0a80
+  name: p
+  pageRef: /pages/p1
+  parent: f4a67012-8572-4fd2-8f03-acdee3dfac72
   weight: 10
