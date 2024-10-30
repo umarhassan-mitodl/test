@@ -2,3 +2,13 @@ leftnav:
 - identifier: f4a67012-8572-4fd2-8f03-acdee3dfac72
   name: m
   weight: 10
+- identifier: f63cb637-c2c0-4819-b40e-7707edfc9923
+  name: p2
+  pageRef: /pages/p2
+  parent: f4a67012-8572-4fd2-8f03-acdee3dfac72
+  weight: 10
+- identifier: 747569bd-dfad-49bc-8a7a-c02f396a0a80
+  name: p1
+  pageRef: /pages/p1
+  parent: f63cb637-c2c0-4819-b40e-7707edfc9923
+  weight: 10
