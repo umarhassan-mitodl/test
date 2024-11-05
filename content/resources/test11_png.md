@@ -2,8 +2,8 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/test/test1.png
-file_size: 403661
+file: /courses/test/test11.png
+file_size: 114433
 file_type: image/png
 image_metadata:
   caption: ''
@@ -12,8 +12,8 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
-title: test1.png
-uid: fc9159f7-5999-403a-8236-2c6f064a456e
+title: test11.png
+uid: 633137c2-3e93-491b-90aa-4dbc3d521b00
 video_files:
   archive_url: ''
   video_captions_file: ''
