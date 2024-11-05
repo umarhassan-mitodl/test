@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/test/test1.png
-file_size: 403661
+file_size: 114433
 file_type: image/png
 image_metadata:
   caption: ''
