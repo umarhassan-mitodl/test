@@ -3,16 +3,17 @@ leftnav:
   name: p1
   pageRef: /pages/p1
   weight: 10
-- identifier: b6b12ad0-c582-4373-a7c2-50fe3db75004
-  name: tes1
-  pageRef: /resources/test1_png
-  weight: 20
 - identifier: 295f6bee-f820-41e4-a51d-54de981538d6
   name: mov
   pageRef: /resources/recordding_mov
-  weight: 30
+  weight: 20
 - identifier: 7f585e45-ba57-4c47-a7a2-1173feae5a1c
   name: p3
   pageRef: /pages/p3
   parent: 61ed7473-bcd3-45c2-860d-a9dc38b57037
+  weight: 10
+- identifier: b6b12ad0-c582-4373-a7c2-50fe3db75004
+  name: tes1
+  pageRef: /resources/test1_png
+  parent: 7f585e45-ba57-4c47-a7a2-1173feae5a1c
   weight: 10
