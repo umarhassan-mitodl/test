@@ -9,7 +9,6 @@ leftnav:
   weight: 20
 - identifier: 3bfffa0c-79bc-4d92-bfef-2bf81697fdb1
   name: p4
-  pageRef: /pages/p4
   parent: 61ed7473-bcd3-45c2-860d-a9dc38b57037
   weight: 10
 - identifier: 7f585e45-ba57-4c47-a7a2-1173feae5a1c
