@@ -1,14 +1,28 @@
 leftnav:
-- identifier: f4a67012-8572-4fd2-8f03-acdee3dfac72
-  name: m
-  weight: 10
-- identifier: f63cb637-c2c0-4819-b40e-7707edfc9923
-  name: p2
-  pageRef: /pages/p2
-  parent: f4a67012-8572-4fd2-8f03-acdee3dfac72
-  weight: 10
-- identifier: 747569bd-dfad-49bc-8a7a-c02f396a0a80
+- identifier: 61ed7473-bcd3-45c2-860d-a9dc38b57037
   name: p1
   pageRef: /pages/p1
-  parent: f63cb637-c2c0-4819-b40e-7707edfc9923
+  weight: 10
+- identifier: f83b4a1c-2949-4517-8702-9ef26f34fa2b
+  name: p2
+  pageRef: /pages/p2
+  weight: 20
+- identifier: 3bfffa0c-79bc-4d92-bfef-2bf81697fdb1
+  name: p4
+  parent: 61ed7473-bcd3-45c2-860d-a9dc38b57037
+  weight: 10
+- identifier: 7f585e45-ba57-4c47-a7a2-1173feae5a1c
+  name: p3
+  pageRef: /pages/p3
+  parent: 61ed7473-bcd3-45c2-860d-a9dc38b57037
+  weight: 20
+- identifier: 295f6bee-f820-41e4-a51d-54de981538d6
+  name: mov
+  pageRef: /resources/recordding_mov
+  parent: f83b4a1c-2949-4517-8702-9ef26f34fa2b
+  weight: 10
+- identifier: b6b12ad0-c582-4373-a7c2-50fe3db75004
+  name: tes1
+  pageRef: /resources/test1_png
+  parent: 7f585e45-ba57-4c47-a7a2-1173feae5a1c
   weight: 10
