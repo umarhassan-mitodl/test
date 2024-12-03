@@ -1,10 +1,10 @@
 ---
 backup_url: ''
 content_type: external-resource
-external_url: google.com
+external_url: http://ghj.com
 has_external_license_warning: true
 is_broken: ''
 license: https://en.wikipedia.org/wiki/All_rights_reserved
-title: google.com
-uid: 65752630-bd87-43fc-8efb-144a7166a47c
+title: http://ghj.com
+uid: 8bd39481-fd4d-4493-bbb5-6f20c8f773fd
 ---
