@@ -4,7 +4,7 @@ external_url: http://ocw.mit.edu
 has_external_license_warning: false
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: ''
-title: OCW
-uid: 8504cac8-b335-4581-8be2-4c22bd12845a
-wayback_url: https://web.archive.org/web/20241009135517/https://ocw.mit.edu/
+title: ocw
+uid: 080f8531-f562-4585-81a9-49f727b28d98
+wayback_url: ''
 ---
