@@ -7,5 +7,5 @@ status: valid
 title: http://abc.com
 uid: cfc9ba3d-c67f-4eeb-bc23-349bc6a93309
 url_status_code: 200
-wayback_url: ''
+wayback_url: https://web.archive.org/web/20241210002505/https://abc.com/
 ---

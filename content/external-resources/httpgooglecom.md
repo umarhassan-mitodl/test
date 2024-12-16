@@ -7,5 +7,5 @@ status: valid
 title: http://google.com
 uid: a9e7e277-c438-44d7-86c9-8746b0ad6e7e
 url_status_code: 200
-wayback_url: ''
+wayback_url: https://web.archive.org/web/20241210000921/https://www.google.com/
 ---
