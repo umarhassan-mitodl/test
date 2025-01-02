@@ -11,6 +11,10 @@ leftnav:
 - identifier: f83b4a1c-2949-4517-8702-9ef26f34fa2b
   name: p2
   weight: 40
+- identifier: 5a3d358b-4fda-467f-bed2-3e2443f422a0
+  name: m1
+  pageRef: /pages/p4
+  weight: 50
 - identifier: b6b12ad0-c582-4373-a7c2-50fe3db75004
   name: tes1
   pageRef: /resources/test1_png
