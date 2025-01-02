@@ -7,7 +7,7 @@ file_size: 403661
 file_type: image/png
 image_metadata:
   caption: ''
-  credit: ''
+  credit: '{{% resource_link "65752630-bd87-43fc-8efb-144a7166a47c" "google.com" %}}'
   image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
