@@ -3,3 +3,7 @@ leftnav:
   name: mi
   pageRef: /lists/r
   weight: 10
+- identifier: 65752630-bd87-43fc-8efb-144a7166a47c
+  name: hi
+  pageRef: /external-resources/googlecom
+  weight: 20
