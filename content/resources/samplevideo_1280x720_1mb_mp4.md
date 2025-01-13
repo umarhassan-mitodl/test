@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /gdrive_uploads/test/1gwggkLVeMBvOBidCjcBCk5OTn2MYpjmZ/samplevideo_1280x720_1mb.mp4
+file: /courses/test/samplevideo_1280x720_1mb_360p_16_9.mp4
 file_size: 1055736
 file_type: video/mp4
 image_metadata:
