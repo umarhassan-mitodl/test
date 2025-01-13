@@ -1,10 +1,10 @@
 ---
-backup_url: ''
 content_type: external-resource
-external_url: http://localhost:8043/sites/test/content/3ed85dd4-2f33-46c2-8aeb-8d4903217955/?ocw_resource_link_uuid=3ed85dd4-2f33-46c2-8aeb-8d4903217955&ocw_resource_link_suffix=
+external_url: google.com
 has_external_license_warning: true
-is_broken: ''
 license: https://en.wikipedia.org/wiki/All_rights_reserved
+status: check_failed
 title: google.com
-uid: c1098dcd-9379-40bc-8f6d-38aa6475bc10
+uid: 65752630-bd87-43fc-8efb-144a7166a47c
+wayback_url: https://web.archive.org/web/20241214000611/https://www.google.com/
 ---

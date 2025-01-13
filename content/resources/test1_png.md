@@ -2,18 +2,18 @@
 body: ''
 content_type: resource
 draft: false
-file: /gdrive_uploads/test/1Xa2UCgFRTeU-AMtncBp1iQF2cXEgN_YS/recordding.mov
-file_size: 13213534
-file_type: video/quicktime
+file: /courses/test/test1.png
+file_size: 403661
+file_type: image/png
 image_metadata:
   caption: ''
-  credit: ''
+  credit: '{{% resource_link "65752630-bd87-43fc-8efb-144a7166a47c" "google.com" %}}'
   image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-resourcetype: Video
-title: recordding.mov
-uid: 295f6bee-f820-41e4-a51d-54de981538d6
+resourcetype: Image
+title: test1.png
+uid: b6b12ad0-c582-4373-a7c2-50fe3db75004
 video_files:
   archive_url: ''
   video_captions_file: ''
