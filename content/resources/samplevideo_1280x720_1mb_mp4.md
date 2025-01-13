@@ -17,11 +17,11 @@ uid: b7472679-3874-462c-ac1e-d86554fe86d3
 video_files:
   archive_url: ''
   video_captions_file: ''
-  video_thumbnail_file: ''
+  video_thumbnail_file: https://img.youtube.com/vi/uEGTmo1eDrE/default.jpg
   video_transcript_file: ''
 video_metadata:
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
-  youtube_id: ''
+  youtube_id: uEGTmo1eDrE
 ---
