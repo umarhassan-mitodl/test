@@ -1,8 +1,8 @@
 ---
 body: ''
 content_type: resource
-draft: true
-file: /courses/test/samplevideo_1280x720_1mb_360p_16_9.mp4
+draft: false
+file: /gdrive_uploads/test/1gwggkLVeMBvOBidCjcBCk5OTn2MYpjmZ/samplevideo_1280x720_1mb.mp4
 file_size: 1055736
 file_type: video/mp4
 image_metadata:
@@ -13,15 +13,15 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: SampleVideo_1280x720_1mb.mp4
-uid: b7472679-3874-462c-ac1e-d86554fe86d3
+uid: 5a1fcc1e-28be-4636-8e70-702854fa573f
 video_files:
   archive_url: ''
   video_captions_file: ''
-  video_thumbnail_file: https://img.youtube.com/vi/uEGTmo1eDrE/default.jpg
+  video_thumbnail_file: ''
   video_transcript_file: ''
 video_metadata:
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
-  youtube_id: uEGTmo1eDrE
+  youtube_id: ''
 ---
