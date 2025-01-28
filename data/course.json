@@ -12,16 +12,16 @@
     "content": "",
     "website": "test"
   },
-  "course_title": "t",
+  "course_title": "test",
   "hide_download": false,
   "mit_learn_topics": [],
-  "course_description": "t",
+  "course_description": "test",
   "department_numbers": [
     "1"
   ],
-  "extra_course_numbers": "t",
-  "primary_course_number": "t",
+  "extra_course_numbers": "",
+  "primary_course_number": "1",
   "learning_resource_types": [],
-  "site_uid": "3bb83922-7e23-4204-839c-607479b030be",
+  "site_uid": "ab4ecd8b-36d8-4d91-adbd-e1a251c53e7e",
   "site_short_id": "test"
 }
