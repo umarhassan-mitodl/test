@@ -1,23 +1,19 @@
 {
-  "term": "",
+  "term": "Spring",
   "year": "2001",
   "level": [],
   "topics": [],
   "legacy_uid": "",
   "instructors": {
-    "content": [
-      "d3c64374-bb1c-46bb-a1a1-827c336e4d8e",
-      "588e4e64-823f-4e8e-a29e-0e695e2297ae",
-      "3caa0884-4fdd-4f3c-ba39-67a64c27d877"
-    ],
-    "website": "ocw-www"
+    "content": [],
+    "website": "test"
   },
   "course_image": {
     "content": "",
     "website": "test"
   },
   "course_title": "test",
-  "hide_download": true,
+  "hide_download": false,
   "mit_learn_topics": [],
   "course_description": "test",
   "department_numbers": [
@@ -26,6 +22,6 @@
   "extra_course_numbers": "",
   "primary_course_number": "1",
   "learning_resource_types": [],
-  "site_uid": "91339905-d9d7-4c84-b21b-4802d8c7e7cf",
+  "site_uid": "79d65776-06c6-4dde-ab6c-f7de51c2e1ff",
   "site_short_id": "test"
 }
