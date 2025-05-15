@@ -16,10 +16,11 @@ title: test
 uid: 0c6b1cde-9ed9-4e2e-b9b0-112d7fa03577
 video_files:
   archive_url: ''
-  video_captions_file: ''
+  video_captions_file: /courses/test/E8uZtq_vOYM_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/E8uZtq_vOYM/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/test/E8uZtq_vOYM_transcript.pdf
 video_metadata:
+  source: youtube
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
