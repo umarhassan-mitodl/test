@@ -9,18 +9,17 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Activity Assignments
+- Demonstration Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: test-video
-uid: 8525576d-ba08-40e7-a443-a4ece2673cfc
+uid: c5743252-f6e3-4190-b573-5f345837a6d4
 video_files:
   archive_url: ''
   video_captions_file: ''
   video_thumbnail_file: https://img.youtube.com/vi/E8uZtq_vOYM/default.jpg
   video_transcript_file: ''
 video_metadata:
-  source: youtube
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
