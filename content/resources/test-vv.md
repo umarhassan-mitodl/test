@@ -9,11 +9,11 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Videos
+- Demonstration Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: test
-uid: 0c6b1cde-9ed9-4e2e-b9b0-112d7fa03577
+title: test-vv
+uid: 169ba47e-2efe-4b43-bb88-77820368aebf
 video_files:
   archive_url: ''
   video_captions_file: /courses/1-test-spring-2001/E8uZtq_vOYM_captions.webvtt
@@ -26,4 +26,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: E8uZtq_vOYM
 ---
-test
+test-vv

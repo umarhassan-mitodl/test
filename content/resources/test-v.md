@@ -16,9 +16,9 @@ title: test-v
 uid: 3f23c320-306d-4d2a-9673-190b62fe54e3
 video_files:
   archive_url: ''
-  video_captions_file: /courses/test/E8uZtq_vOYM_captions.webvtt
+  video_captions_file: /courses/1-test-spring-2001/E8uZtq_vOYM_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/E8uZtq_vOYM/default.jpg
-  video_transcript_file: /courses/test/E8uZtq_vOYM_transcript.pdf
+  video_transcript_file: /courses/1-test-spring-2001/E8uZtq_vOYM_transcript.pdf
 video_metadata:
   source: youtube
   video_speakers: ''
