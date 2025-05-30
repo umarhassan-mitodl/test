@@ -1,7 +1,9 @@
 {
   "term": "Spring",
   "year": "2001",
-  "level": [],
+  "level": [
+    "Undergraduate"
+  ],
   "topics": [],
   "legacy_uid": "",
   "instructors": {
@@ -9,7 +11,7 @@
     "website": "test"
   },
   "course_image": {
-    "content": "",
+    "content": "5a89a484-f96a-4a69-b26c-0ff2bafda6fd",
     "website": "test"
   },
   "course_title": "test",
@@ -22,6 +24,6 @@
   "extra_course_numbers": "",
   "primary_course_number": "1",
   "learning_resource_types": [],
-  "site_uid": "d0d6c0bd-2f5d-41e7-8cd0-a80785e2a563",
+  "site_uid": "4cdae672-8e0d-4f9b-8ede-4824915839ab",
   "site_short_id": "test"
 }
