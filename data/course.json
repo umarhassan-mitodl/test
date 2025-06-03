@@ -11,7 +11,7 @@
     "website": "test"
   },
   "course_image": {
-    "content": "5a89a484-f96a-4a69-b26c-0ff2bafda6fd",
+    "content": "",
     "website": "test"
   },
   "course_title": "test",
@@ -24,6 +24,6 @@
   "extra_course_numbers": "",
   "primary_course_number": "1",
   "learning_resource_types": [],
-  "site_uid": "4cdae672-8e0d-4f9b-8ede-4824915839ab",
+  "site_uid": "967fad4d-4b15-4395-82a0-e48d96872f07",
   "site_short_id": "test"
 }
