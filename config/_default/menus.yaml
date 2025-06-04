@@ -1,9 +1,5 @@
 leftnav:
-- identifier: 1f4055bf-8fc3-4a74-9fe1-128dbbf89715
-  name: mi
-  pageRef: /lists/r
+- identifier: 44efda3e-772b-40d5-b536-ee3f419e706b
+  name: page 1
+  pageRef: /pages/p1
   weight: 10
-- identifier: 65752630-bd87-43fc-8efb-144a7166a47c
-  name: hi
-  pageRef: /external-resources/googlecom
-  weight: 20
