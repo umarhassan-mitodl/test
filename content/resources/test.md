@@ -8,22 +8,20 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types:
-- Lecture Videos
+learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: test
-uid: 0c6b1cde-9ed9-4e2e-b9b0-112d7fa03577
+uid: cbf108a3-dcdb-4c23-b767-a3848f71321a
 video_files:
   archive_url: ''
-  video_captions_file: /courses/1-test-spring-2001/E8uZtq_vOYM_captions.webvtt
-  video_thumbnail_file: https://img.youtube.com/vi/E8uZtq_vOYM/default.jpg
-  video_transcript_file: /courses/1-test-spring-2001/E8uZtq_vOYM_transcript.pdf
+  video_captions_file: ''
+  video_thumbnail_file: https://img.youtube.com/vi/https://www.youtube.com/watch?v=hBU95w4a74s/default.jpg
+  video_transcript_file: ''
 video_metadata:
   source: youtube
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
-  youtube_id: E8uZtq_vOYM
+  youtube_id: https://www.youtube.com/watch?v=hBU95w4a74s
 ---
-test
