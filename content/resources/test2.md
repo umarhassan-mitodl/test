@@ -15,9 +15,9 @@ title: test2
 uid: 541b5d48-859b-4458-a690-59a35a75b76e
 video_files:
   archive_url: ''
-  video_captions_file: /courses/test/L70bHi2giM0_captions.webvtt
+  video_captions_file: /courses/1-test-spring-2001/1gwggkLVeMBvOBidCjcBCk5OTn2MYpjmZ_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/L70bHi2giM0/default.jpg
-  video_transcript_file: /courses/test/L70bHi2giM0_transcript.pdf
+  video_transcript_file: /courses/1-test-spring-2001/1gwggkLVeMBvOBidCjcBCk5OTn2MYpjmZ_transcript.pdf
 video_metadata:
   source: youtube
   video_speakers: ''
