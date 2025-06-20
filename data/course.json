@@ -2,7 +2,7 @@
   "term": "Spring",
   "year": "2001",
   "level": [
-    "Undergraduate"
+    "Graduate"
   ],
   "topics": [],
   "legacy_uid": "",
@@ -24,6 +24,6 @@
   "extra_course_numbers": "",
   "primary_course_number": "1",
   "learning_resource_types": [],
-  "site_uid": "322b93e8-c07c-44b0-b129-894cb8a1fd89",
+  "site_uid": "e8dcc27e-95a6-4250-a8a0-47367b8d2961",
   "site_short_id": "test"
 }
