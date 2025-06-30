@@ -6,8 +6,9 @@ file: /courses/1-test-spring-2001/test1.png
 file_size: 403661
 file_type: image/png
 image_metadata:
-  caption: ''
-  credit: ''
+  caption: '{{% resource_link "63f7a89b-8691-463b-aca6-1c2edde10f68" "google.com"
+    %}}'
+  credit: '{{% resource_link "63f7a89b-8691-463b-aca6-1c2edde10f68" "google.com" %}}'
   image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
