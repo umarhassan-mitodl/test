@@ -26,3 +26,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
+{{% resource_link "64cd667e-5805-4d87-8847-a2bb2cc4d0f1" "p111" %}}
