@@ -6,7 +6,7 @@ file: /courses/1-test-spring-2001/test1.png
 file_size: 403661
 file_type: image/png
 image_metadata:
-  caption: '[Google](google.com)'
+  caption: '{{% resource_link "c807428a-1ec2-4b0e-8b8c-f4b823c85f9a" "Google" %}}'
   credit: '{{% resource_link "63f7a89b-8691-463b-aca6-1c2edde10f68" "google.com" %}}'
   image-alt: ''
 learning_resource_types: []
@@ -27,3 +27,5 @@ video_metadata:
   youtube_id: ''
 ---
 {{% resource_link "657b4518-0cea-44ac-8f67-2b0ca2c1dd42" "p2" %}}
+
+{{% resource_link "c807428a-1ec2-4b0e-8b8c-f4b823c85f9a" "Google" %}}
