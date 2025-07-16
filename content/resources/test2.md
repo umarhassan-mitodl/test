@@ -12,16 +12,17 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: test2
-uid: b3e4db59-886a-468d-82be-6597368e3aa0
+uid: 541b5d48-859b-4458-a690-59a35a75b76e
 video_files:
   archive_url: ''
-  video_captions_file: ''
-  video_thumbnail_file: https://img.youtube.com/vi/xAcTmDO6NTI/default.jpg
-  video_transcript_file: ''
+  video_captions_file: /courses/1-test-spring-2001/1gwggkLVeMBvOBidCjcBCk5OTn2MYpjmZ_transcript.webvtt
+  video_thumbnail_file: https://img.youtube.com/vi/L70bHi2giM0/default.jpg
+  video_transcript_file: /courses/1-test-spring-2001/1gwggkLVeMBvOBidCjcBCk5OTn2MYpjmZ_transcript.pdf
 video_metadata:
+  source: youtube
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
-  youtube_id: xAcTmDO6NTI
+  youtube_id: L70bHi2giM0
 ---
 test2

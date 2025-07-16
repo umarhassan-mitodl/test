@@ -7,11 +7,13 @@
   "topics": [],
   "legacy_uid": "",
   "instructors": {
-    "content": [],
-    "website": "test"
+    "content": [
+      "bffae8b3-f455-4ef3-9d06-208e75f64af3"
+    ],
+    "website": "ocw-www"
   },
   "course_image": {
-    "content": "5a89a484-f96a-4a69-b26c-0ff2bafda6fd",
+    "content": "",
     "website": "test"
   },
   "course_title": "test",
@@ -23,7 +25,9 @@
   ],
   "extra_course_numbers": "",
   "primary_course_number": "1",
-  "learning_resource_types": [],
-  "site_uid": "4cdae672-8e0d-4f9b-8ede-4824915839ab",
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "site_uid": "22ad6a1a-a864-4e16-b507-d126c44fa0cb",
   "site_short_id": "test"
 }

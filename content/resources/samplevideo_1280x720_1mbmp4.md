@@ -9,11 +9,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Exam Materials
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: SampleVideo_1280x720_1mb.mp4
-uid: 3a35ffeb-d4cf-472f-a6fe-a7c5afa3b07e
+uid: 64a673ca-ac4d-4ce9-ae8c-a7836e90451f
 video_files:
   archive_url: ''
   video_captions_file: ''
