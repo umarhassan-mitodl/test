@@ -1,10 +1,10 @@
 ---
 content_type: external-resource
-external_url: https://google.com/
+external_url: https://mit.edu/
 has_external_license_warning: true
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: ''
-title: Google
-uid: 8b78eea3-97f6-4fc3-931e-c37d9e219d90
+title: MIT Website
+uid: b030bbdc-6945-46f4-8738-5201aa761608
 wayback_url: ''
 ---
