@@ -7,8 +7,8 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
-title: test captions
-uid: a7fde43d-f1d1-49b0-a899-6b9b8958becb
+title: t1 captions
+uid: d2e325e3-6b96-46b7-b231-77da7ddb6142
 video_files:
   video_thumbnail_file: null
 video_metadata:

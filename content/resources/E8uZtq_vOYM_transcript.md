@@ -7,8 +7,8 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
-title: test transcript
-uid: b3abefd1-9d1d-47ec-8821-f5750acad71d
+title: t1 transcript
+uid: 9ecdb346-f0b0-47dd-90f3-6da1316b786c
 video_files:
   video_thumbnail_file: null
 video_metadata:
