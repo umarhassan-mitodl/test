@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: null
+file: /courses/1-test-spring-2001/E8uZtq_vOYM_captions.webvtt
+file_size: 447
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

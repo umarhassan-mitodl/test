@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: null
+file: /courses/1-test-spring-2001/E8uZtq_vOYM_transcript.pdf
+file_size: 18072
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
