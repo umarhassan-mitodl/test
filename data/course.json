@@ -23,10 +23,7 @@
   ],
   "extra_course_numbers": "",
   "primary_course_number": "1",
-  "learning_resource_types": [
-    "Activity Assignments",
-    "Course Introduction"
-  ],
-  "site_uid": "336a95d0-b5bb-470b-a847-74d80e04f661",
+  "learning_resource_types": [],
+  "site_uid": "85e32eec-b80b-49c1-ad91-729daa02c411",
   "site_short_id": "test"
 }
