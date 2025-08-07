@@ -2,19 +2,18 @@
 body: ''
 content_type: resource
 draft: false
-file: /gdrive_uploads/test/1gwggkLVeMBvOBidCjcBCk5OTn2MYpjmZ/samplevideo_1280x720_1mb.mp4
+file: /gdrive_uploads/test/1zZ7awhC8_C4Kb-Df5rcpSicJUI26foNO/test_video.mp4
 file_size: 1055736
 file_type: video/mp4
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types:
-- Exam Materials
+learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: SampleVideo_1280x720_1mb.mp4
-uid: 64a673ca-ac4d-4ce9-ae8c-a7836e90451f
+title: test_video.mp4
+uid: e44e1bc6-fe59-4b2b-b54b-68c2602aa12d
 video_files:
   archive_url: ''
   video_captions_file: ''
