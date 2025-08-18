@@ -23,9 +23,8 @@
   ],
   "extra_course_numbers": "",
   "primary_course_number": "1",
-  "learning_resource_types": [
-    "Course Introduction"
-  ],
-  "site_uid": "85e32eec-b80b-49c1-ad91-729daa02c411",
-  "site_short_id": "test"
+  "learning_resource_types": [],
+  "site_uid": "0f202b15-72f6-4e98-b5fe-d248ffb585c8",
+  "site_short_id": "test",
+  "site_url_path": "courses/1-test-spring-2001"
 }
