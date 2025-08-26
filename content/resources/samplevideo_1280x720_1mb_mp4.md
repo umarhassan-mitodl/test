@@ -13,7 +13,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: SampleVideo_1280x720_1mb.mp4
-uid: b7e52672-e36b-47f3-807d-d3abad83aa2a
+uid: 24c83d04-ea54-4dff-8f26-f269350e5e48
 video_files:
   archive_url: ''
   video_captions_file: ''
