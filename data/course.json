@@ -15,7 +15,7 @@
     "website": "test"
   },
   "course_title": "test",
-  "hide_download": true,
+  "hide_download": false,
   "mit_learn_topics": [],
   "course_description": "test",
   "department_numbers": [
@@ -23,8 +23,10 @@
   ],
   "extra_course_numbers": "",
   "primary_course_number": "1",
-  "learning_resource_types": [],
-  "site_uid": "0f202b15-72f6-4e98-b5fe-d248ffb585c8",
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "site_uid": "c86e0049-6cf8-4cde-9e93-d7e4a8fd9f6d",
   "site_short_id": "test",
   "site_url_path": "courses/1-test-spring-2001"
 }
