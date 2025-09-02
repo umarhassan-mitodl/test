@@ -1,10 +1,10 @@
 ---
 backup_url: ''
 content_type: external-resource
-external_url: http://google.com
+external_url: https://google.com
 has_external_license_warning: true
 is_broken: ''
 license: https://en.wikipedia.org/wiki/All_rights_reserved
-title: http://google.com
-uid: 93621e54-06d8-4c9f-919d-29b7f1779f79
+title: https://google.com
+uid: 499680d8-3198-4da6-9068-e875c0390e00
 ---
