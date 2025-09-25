@@ -23,10 +23,8 @@
   ],
   "extra_course_numbers": "",
   "primary_course_number": "1",
-  "learning_resource_types": [
-    "Activity Assignments"
-  ],
-  "site_uid": "d9a43e8e-0bd2-41d2-b362-a3500febab5c",
+  "learning_resource_types": [],
+  "site_uid": "96ada46c-fc58-4926-a3a6-af6585169985",
   "site_short_id": "test",
   "site_url_path": "courses/1-test-spring-2001"
 }
