@@ -5,6 +5,8 @@ draft: false
 file: /courses/1-test-spring-2001/test1.png
 file_size: 403661
 file_type: image/png
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
