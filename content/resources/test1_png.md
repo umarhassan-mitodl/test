@@ -2,11 +2,9 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/1-test-spring-2001/test1.png
+file: /courses/test/test1.png
 file_size: 403661
 file_type: image/png
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
@@ -15,7 +13,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
 title: test1.png
-uid: 2e8f22ae-18bd-460c-bdb9-1f7bd866ee0b
+uid: 3b60772d-2372-4b3c-ad76-c2c922e94920
 video_files:
   archive_url: ''
   video_captions_file: ''
