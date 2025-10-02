@@ -2,18 +2,19 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/1-test-spring-2001/test1.png
-file_size: 403661
-file_type: image/png
+file: /gdrive_uploads/test/1S7j5gc1zLDtiUsV8kDjDEdzM_ikKguTw/samplevideo_1280x720_1mb.mp4
+file_size: 1055736
+file_type: video/mp4
+gdrive_url: ''
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-resourcetype: Image
-title: test1.png
-uid: 3b60772d-2372-4b3c-ad76-c2c922e94920
+resourcetype: Video
+title: SampleVideo_1280x720_1mb.mp4
+uid: 5e73e48f-94a9-4797-bd8a-bae28da203f9
 video_files:
   archive_url: ''
   video_captions_file: ''
