@@ -2,9 +2,10 @@
 body: ''
 content_type: resource
 draft: false
-file: /gdrive_uploads/test/1eant4s7x4g8WMXQ-kx6ETLsAaKoCROaK/samplevideo_1280x720_1mb.mp4
+file: /gdrive_uploads/test/1S7j5gc1zLDtiUsV8kDjDEdzM_ikKguTw/samplevideo_1280x720_1mb.mp4
 file_size: 1055736
 file_type: video/mp4
+gdrive_url: ''
 image_metadata:
   caption: ''
   credit: ''
@@ -13,7 +14,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: SampleVideo_1280x720_1mb.mp4
-uid: 65024801-7597-4a16-899d-0712b3e56a14
+uid: 5e73e48f-94a9-4797-bd8a-bae28da203f9
 video_files:
   archive_url: ''
   video_captions_file: ''
