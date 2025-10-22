@@ -23,4 +23,4 @@ This is a {{% resource_link "5139150e-705a-4e06-be43-3d6705c87c86" "normal link"
 Some {{% resource_link "b0b871ea-38ca-4d67-ab50-d9ed48f66c14" "regular link" %}} and then {{% resource_link "1d0f2b3d-dde4-4fe3-9bdf-06dc37358bd3" "embedded<sup>®</sup>" %}}.
 
 ## Test Case 6: Embedded Shortcode in between
-[Some month with 16{{< sup "th" >}} Day](http://example.com)
+{{% resource_link "8d3bcce3-f7ec-4240-b654-45700635727e" "Some month with 16<sup>th</sup> Day" %}}
