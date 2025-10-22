@@ -11,7 +11,7 @@ uid: bd97e6e6-ef70-467e-9739-6769ff9255f9
 Here is a link to {{% resource_link "ea3a5035-4ada-4acf-82e3-af084c4d5fe7" "APA Style<sup><sub>®</sub></sup>" %}}.
 
 ## Test Case 2: Mathematical notation
-Check out {{% resource_link "aca0659e-4138-4d3c-ba83-92aba59774a5" "Math Resource<sup>x{{< sub 2 >}}</sup>" %}}.
+Check out {{% resource_link "aca0659e-4138-4d3c-ba83-92aba59774a5" "Math Resource<sup>x<sub>2</sub></sup>" %}}.
 
 ## Test Case 3: Multiple nested shortcodes
 Visit {{% resource_link "0dcd0f8e-b87c-4ddc-932d-e7856b2902db" "Complex<sup><sub>nested</sub><sub>test</sub></sup>" %}}.
