@@ -14,17 +14,17 @@
     "content": "",
     "website": "test"
   },
-  "course_title": "test",
-  "hide_download": true,
+  "course_title": "test-title",
+  "hide_download": false,
   "mit_learn_topics": [],
-  "course_description": "test",
+  "course_description": "test-desc",
   "department_numbers": [
     "1"
   ],
   "extra_course_numbers": "",
-  "primary_course_number": "1",
+  "primary_course_number": "pri",
   "learning_resource_types": [],
-  "site_uid": "32b6cc14-b834-46ff-b77a-2790aee4bda1",
+  "site_uid": "f67b8ea1-3547-4f1c-ac6d-09e644ddc9c7",
   "site_short_id": "test",
-  "site_url_path": "courses/1-test-spring-2001"
+  "site_url_path": "courses/pri-test-title-spring-2001"
 }
