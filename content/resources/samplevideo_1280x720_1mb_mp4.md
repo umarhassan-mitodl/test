@@ -1,7 +1,7 @@
 ---
 body: ''
 content_type: resource
-draft: false
+draft: true
 file: /gdrive_uploads/test/1S7j5gc1zLDtiUsV8kDjDEdzM_ikKguTw/samplevideo_1280x720_1mb.mp4
 file_size: 1055736
 file_type: video/mp4
