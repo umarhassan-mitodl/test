@@ -1,7 +1,7 @@
 ---
 body: ''
 content_type: resource
-draft: false
+draft: true
 file: /gdrive_uploads/test/1uLPMMJse6T7qChUg9RIxQnQOzKrgF1mD/samplevideo_1280x720_1mb.mp4
 file_size: 1055736
 file_type: video/mp4
@@ -19,7 +19,7 @@ video_files:
   archive_url: ''
   video_captions_file: ''
   video_captions_resource: ''
-  video_thumbnail_file: ''
+  video_thumbnail_file: https://img.youtube.com/vi/uo8j7Mq9e0U/default.jpg
   video_transcript_file: ''
   video_transcript_resource: ''
 video_metadata:
@@ -27,5 +27,5 @@ video_metadata:
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
-  youtube_id: ''
+  youtube_id: uo8j7Mq9e0U
 ---
