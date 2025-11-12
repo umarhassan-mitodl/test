@@ -2,8 +2,8 @@
 body: ''
 content_type: resource
 draft: false
-file: /gdrive_uploads/test/1vB6yWmbmQgFgrphAiqvUPN56Dyh_yaFn/copy-of-test-video.mp4
-file_size: 1055736
+file: /courses/pri-test-title-spring-2001/copy-of-test-video_360p_16_9.mp4
+file_size: 335844
 file_type: video/mp4
 gdrive_url: ''
 image_metadata:
@@ -19,7 +19,7 @@ video_files:
   archive_url: ''
   video_captions_file: ''
   video_captions_resource: ''
-  video_thumbnail_file: ''
+  video_thumbnail_file: https://img.youtube.com/vi/LOwrPIj5Tbc/default.jpg
   video_transcript_file: ''
   video_transcript_resource: ''
 video_metadata:
@@ -27,5 +27,5 @@ video_metadata:
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
-  youtube_id: ''
+  youtube_id: LOwrPIj5Tbc
 ---
