@@ -1,28 +1,30 @@
 {
-  "term": "",
-  "year": "",
-  "level": [],
+  "term": "Spring",
+  "year": "2001",
+  "level": [
+    "Undergraduate"
+  ],
   "topics": [],
   "legacy_uid": "",
   "instructors": {
     "content": [],
-    "website": "test"
+    "website": "tes"
   },
   "course_image": {
     "content": "",
-    "website": "test"
+    "website": "tes"
   },
   "course_title": "test",
   "hide_download": false,
   "mit_learn_topics": [],
   "course_description": "test",
-  "department_numbers": [],
+  "department_numbers": [
+    "1"
+  ],
   "extra_course_numbers": "",
   "primary_course_number": "1",
-  "learning_resource_types": [
-    "Image Gallery"
-  ],
-  "site_uid": "1a6f3668-3640-47b8-8549-b2e5495c2e6b",
+  "learning_resource_types": [],
+  "site_uid": "79685f99-ceb1-453c-bbac-6ce6b305bbcc",
   "site_short_id": "test",
-  "site_url_path": "courses/1-test-[sitemetadata:term]-[sitemetadata:year]"
+  "site_url_path": "courses/1-test-spring-2001"
 }
