@@ -1,5 +1,5 @@
 {
-  "term": "Spring",
+  "term": "January IAP",
   "year": "2001",
   "level": [
     "Undergraduate"
@@ -8,11 +8,11 @@
   "legacy_uid": "",
   "instructors": {
     "content": [],
-    "website": "tes"
+    "website": "test"
   },
   "course_image": {
     "content": "",
-    "website": "tes"
+    "website": "test"
   },
   "course_title": "test",
   "hide_download": false,
@@ -24,7 +24,7 @@
   "extra_course_numbers": "",
   "primary_course_number": "1",
   "learning_resource_types": [],
-  "site_uid": "79685f99-ceb1-453c-bbac-6ce6b305bbcc",
+  "site_uid": "5045c442-1f69-489e-a3df-7d3b0cab6eb1",
   "site_short_id": "test",
-  "site_url_path": "courses/1-test-spring-2001"
+  "site_url_path": "courses/1-test-january-iap-2001"
 }
