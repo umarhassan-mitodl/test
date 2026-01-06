@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/pri-test-title-spring-2001/test1.png
+file: /courses/1-test-january-iap-2001/test1.png
 file_size: 403661
 file_type: image/png
 gdrive_url: ''
@@ -14,7 +14,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
 title: test1.png
-uid: 51b073b4-623d-48ce-b152-159dcdea66a1
+uid: 023a5f12-83b9-4007-8f2a-41e30b2e5b76
 video_files:
   archive_url: ''
   video_captions_file: ''

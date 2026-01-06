@@ -1,9 +1,9 @@
 ---
 body: ''
 content_type: resource
-draft: true
-file: /courses/pri-test-title-spring-2001/samplevideo_1280x720_1mb_360p_16_9.mp4
-file_size: 335234
+draft: false
+file: /gdrive_uploads/test/1uLPMMJse6T7qChUg9RIxQnQOzKrgF1mD/samplevideo_1280x720_1mb.mp4
+file_size: 1055736
 file_type: video/mp4
 gdrive_url: ''
 image_metadata:
@@ -14,18 +14,18 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: SampleVideo_1280x720_1mb.mp4
-uid: b2df2bce-c071-47db-aa09-39440c5e3807
+uid: f108227a-4b39-4b43-ba90-ff2d5ac3bea2
 video_files:
   archive_url: ''
   video_captions_file: ''
   video_captions_resource: ''
-  video_thumbnail_file: https://img.youtube.com/vi/WJTEDKbTlc0/default.jpg
+  video_thumbnail_file: ''
   video_transcript_file: ''
   video_transcript_resource: ''
 video_metadata:
   source: ''
   video_speakers: ''
-  video_tags: physics, education, MIT OCW
+  video_tags: ''
   youtube_description: ''
-  youtube_id: WJTEDKbTlc0
+  youtube_id: ''
 ---
