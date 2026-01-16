@@ -23,7 +23,9 @@
   ],
   "extra_course_numbers": "",
   "primary_course_number": "1",
-  "learning_resource_types": [],
+  "learning_resource_types": [
+    "Exams with Solutions"
+  ],
   "site_uid": "5045c442-1f69-489e-a3df-7d3b0cab6eb1",
   "site_short_id": "test",
   "site_url_path": "courses/1-test-january-iap-2001"
