@@ -1,10 +1,10 @@
 ---
 backup_url: ''
 content_type: external-resource
-external_url: http://abc.com
+external_url: https://ocw.mit.edu
 has_external_license_warning: false
 is_broken: ''
 license: https://en.wikipedia.org/wiki/All_rights_reserved
-title: http://abc.com
-uid: 25e3db9a-85a1-4f13-a867-a9f2e3cd007f
+title: https://ocw.mit.edu
+uid: c0c1f122-1c3c-44b2-9de7-955cdd97026b
 ---

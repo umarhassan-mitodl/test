@@ -1,28 +1,30 @@
 ---
-body: ''
 content_type: resource
 draft: false
-file: /gdrive_uploads/test/1uLPMMJse6T7qChUg9RIxQnQOzKrgF1mD/samplevideo_1280x720_1mb.mp4
-file_size: 1055736
-file_type: video/mp4
-gdrive_url: ''
+file: null
+file_size: ''
+file_type: ''
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Exams with Solutions
+- Image Gallery
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: SampleVideo_1280x720_1mb.mp4
-uid: f108227a-4b39-4b43-ba90-ff2d5ac3bea2
+title: test-vid
+uid: b381296b-809a-490a-be8f-3a7e5e111223
 video_files:
   archive_url: ''
-  video_captions_file: ''
-  video_captions_resource: ''
+  video_captions_file: null
+  video_captions_resource:
+    content: ''
+    website: test
   video_thumbnail_file: ''
-  video_transcript_file: ''
-  video_transcript_resource: ''
+  video_transcript_file: null
+  video_transcript_resource:
+    content: ''
+    website: test
 video_metadata:
   source: ''
   video_speakers: ''
@@ -30,3 +32,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
+test-vid
