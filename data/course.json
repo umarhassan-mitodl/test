@@ -7,8 +7,10 @@
   "topics": [],
   "legacy_uid": "",
   "instructors": {
-    "content": [],
-    "website": "test"
+    "content": [
+      "ccf55716-15f1-4dff-9044-6ec4a415457a"
+    ],
+    "website": "ocw-www"
   },
   "course_image": {
     "content": "",
@@ -19,12 +21,12 @@
   "mit_learn_topics": [],
   "course_description": "test",
   "department_numbers": [
-    "1"
+    "10"
   ],
   "extra_course_numbers": "",
   "primary_course_number": "pri",
   "learning_resource_types": [],
-  "site_uid": "444b137b-8322-4470-9fbc-a6c0533de88d",
+  "site_uid": "11c9d71a-3d3f-4f27-b905-cd9d9f4c8651",
   "site_short_id": "test",
   "site_url_path": "courses/pri-test-spring-2001"
 }
