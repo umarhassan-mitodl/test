@@ -1,9 +1,7 @@
 {
-  "term": "Spring",
-  "year": "2001",
-  "level": [
-    "Undergraduate"
-  ],
+  "term": "",
+  "year": "",
+  "level": [],
   "topics": [],
   "legacy_uid": "",
   "instructors": {
@@ -18,13 +16,11 @@
   "hide_download": false,
   "mit_learn_topics": [],
   "course_description": "test",
-  "department_numbers": [
-    "1"
-  ],
+  "department_numbers": [],
   "extra_course_numbers": "",
   "primary_course_number": "pri",
   "learning_resource_types": [],
-  "site_uid": "444b137b-8322-4470-9fbc-a6c0533de88d",
+  "site_uid": "11c9d71a-3d3f-4f27-b905-cd9d9f4c8651",
   "site_short_id": "test",
-  "site_url_path": "courses/pri-test-spring-2001"
+  "site_url_path": "courses/pri-test-[sitemetadata:term]-[sitemetadata:year]"
 }
