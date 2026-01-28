@@ -15,19 +15,19 @@ title: vid
 uid: bc6f2dd3-1e5d-437f-9512-e5decbb522d8
 video_files:
   archive_url: ''
-  video_captions_file: ''
+  video_captions_file: null
   video_captions_resource:
     content: ''
     website: test
   video_thumbnail_file: https://img.youtube.com/vi/kjhkjhkjh/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: null
   video_transcript_resource:
     content: ''
     website: test
 video_metadata:
   source: youtube
   video_speakers: ''
-  video_tags: ''
+  video_tags: tag1, tag2
   youtube_description: ''
   youtube_id: kjhkjhkjh
 ---
