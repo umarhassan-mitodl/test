@@ -1,5 +1,9 @@
 leftnav:
-- identifier: 44efda3e-772b-40d5-b536-ee3f419e706b
-  name: page 1
+- identifier: 78b0ad62-3416-45cd-8b2e-77e676897af0
+  name: p1
   pageRef: /pages/p1
   weight: 10
+- identifier: bc6f2dd3-1e5d-437f-9512-e5decbb522d8
+  name: v1
+  pageRef: /resources/vid
+  weight: 20
