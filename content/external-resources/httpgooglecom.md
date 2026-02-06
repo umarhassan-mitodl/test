@@ -2,9 +2,9 @@
 backup_url: ''
 content_type: external-resource
 external_url: http://google.com
-has_external_license_warning: true
+has_external_license_warning: false
 is_broken: ''
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 title: http://google.com
-uid: 05fe8ab8-bfcb-4eb0-8e0b-afa4fb136be4
+uid: 487889a6-385d-460c-9c6f-755bfd5ea99c
 ---
