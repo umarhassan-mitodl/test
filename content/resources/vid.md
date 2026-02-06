@@ -27,7 +27,7 @@ video_files:
 video_metadata:
   source: youtube
   video_speakers: ''
-  video_tags: ''
+  video_tags: pri-test-spring-2001, tag1, tag2, tag3
   youtube_description: ''
   youtube_id: E8uZtq_vOYM
 ---

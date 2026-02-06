@@ -1,12 +1,10 @@
 ---
 backup_url: ''
 content_type: external-resource
-external_url: https://google.com
+external_url: https://ocw-studio.odl.mit.edu/pages/download
 has_external_license_warning: false
 is_broken: ''
 license: https://en.wikipedia.org/wiki/All_rights_reserved
-status: valid
-title: https://google.com
-uid: 1c6607b4-b263-4b9a-b602-02c3dbb401a0
-url_status_code: 200
+title: https://ocw-studio.odl.mit.edu/pages/download
+uid: 32a6ef7c-78de-42dc-b6c6-814b6715d545
 ---
