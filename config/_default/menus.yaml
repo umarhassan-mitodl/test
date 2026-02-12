@@ -1,5 +1,21 @@
 leftnav:
-- identifier: 32a6ef7c-78de-42dc-b6c6-814b6715d545
-  name: t
-  pageRef: /external-resources/httpsocw-studioodlmitedupagesdownload
+- identifier: 9d1ef747-90e4-42bb-87e6-3009a6d9bdb8
+  name: vid
+  pageRef: /resources/samplevideo_1280x720_1mb_mp4
   weight: 10
+- identifier: 398a0d1a-8aa6-497b-9723-e5cc05f3eca9
+  name: p1
+  pageRef: /pages/p1
+  weight: 20
+- identifier: eb5571df-a93c-4b44-80a1-de9304e38520
+  name: list
+  pageRef: /lists/list-1
+  weight: 30
+- identifier: d097a01a-7f7d-49fd-bb51-a10fa6ddb085
+  name: gallery
+  pageRef: /video_galleries/gal-1
+  weight: 40
+- identifier: 39c08dc0-8739-4353-a89b-1040c1d56540
+  name: image
+  pageRef: /resources/test1_png
+  weight: 50
