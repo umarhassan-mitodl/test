@@ -7,15 +7,11 @@ leftnav:
   name: p1
   pageRef: /pages/p1
   weight: 20
-- identifier: eb5571df-a93c-4b44-80a1-de9304e38520
-  name: list
-  pageRef: /lists/list-1
-  weight: 30
 - identifier: d097a01a-7f7d-49fd-bb51-a10fa6ddb085
   name: gallery
   pageRef: /video_galleries/gal-1
-  weight: 40
+  weight: 30
 - identifier: 39c08dc0-8739-4353-a89b-1040c1d56540
   name: image
   pageRef: /resources/test1_png
-  weight: 50
+  weight: 40
