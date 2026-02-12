@@ -11,7 +11,7 @@
     "website": "test"
   },
   "course_image": {
-    "content": "",
+    "content": "39c08dc0-8739-4353-a89b-1040c1d56540",
     "website": "test"
   },
   "course_title": "test",
@@ -22,9 +22,9 @@
     "1"
   ],
   "extra_course_numbers": "",
-  "primary_course_number": "1",
+  "primary_course_number": "pri",
   "learning_resource_types": [],
-  "site_uid": "e41c6f91-2c51-4cba-af7c-0f9278f25511",
+  "site_uid": "ffc7dd8d-f208-44d8-a21a-d81def76de00",
   "site_short_id": "test",
-  "site_url_path": "courses/1-test-spring-2001"
+  "site_url_path": "courses/pri-test-spring-2001"
 }
