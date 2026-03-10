@@ -5,15 +5,14 @@
     "Undergraduate"
   ],
   "topics": [],
+  "audience": [],
   "legacy_uid": "",
   "instructors": {
-    "content": [
-      "0dcfed51-9207-4afc-bd1c-6c348ddfdbec"
-    ],
-    "website": "ocw-www"
+    "content": [],
+    "website": "test"
   },
   "course_image": {
-    "content": "39c08dc0-8739-4353-a89b-1040c1d56540",
+    "content": "",
     "website": "test"
   },
   "course_title": "test",
@@ -24,9 +23,9 @@
     "1"
   ],
   "extra_course_numbers": "",
-  "primary_course_number": "pri",
+  "primary_course_number": "1",
   "learning_resource_types": [],
-  "site_uid": "ffc7dd8d-f208-44d8-a21a-d81def76de00",
+  "site_uid": "5e3c361c-60d6-4f66-92fb-ad9751a987b2",
   "site_short_id": "test",
-  "site_url_path": "courses/pri-test-spring-2001"
+  "site_url_path": "courses/1-test-spring-2001"
 }
