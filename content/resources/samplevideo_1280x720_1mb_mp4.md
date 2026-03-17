@@ -1,7 +1,8 @@
 ---
+audience: []
 body: ''
 content_type: resource
-draft: true
+draft: false
 file: /gdrive_uploads/test/1uLPMMJse6T7qChUg9RIxQnQOzKrgF1mD/samplevideo_1280x720_1mb.mp4
 file_size: 1055736
 file_type: video/mp4
@@ -11,10 +12,11 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+level: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: SampleVideo_1280x720_1mb.mp4
-uid: 9d1ef747-90e4-42bb-87e6-3009a6d9bdb8
+uid: ef0fe1b4-c4af-42bc-8941-e7aee19de9e2
 video_files:
   archive_url: ''
   video_captions_file: ''
