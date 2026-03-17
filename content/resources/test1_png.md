@@ -1,8 +1,9 @@
 ---
+audience: []
 body: ''
 content_type: resource
 draft: false
-file: /courses/pri-test-spring-2001/test1.png
+file: /courses/1-test-spring-2001/test1.png
 file_size: 403661
 file_type: image/png
 gdrive_url: ''
@@ -11,10 +12,11 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+level: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
 title: test1.png
-uid: 39c08dc0-8739-4353-a89b-1040c1d56540
+uid: 71a0acb7-dfc3-4532-a160-f606f422aa8f
 video_files:
   archive_url: ''
   video_captions_file: ''
