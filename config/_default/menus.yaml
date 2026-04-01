@@ -1,17 +1,5 @@
 leftnav:
-- identifier: 9d1ef747-90e4-42bb-87e6-3009a6d9bdb8
-  name: vid
-  pageRef: /resources/samplevideo_1280x720_1mb_mp4
-  weight: 10
-- identifier: 398a0d1a-8aa6-497b-9723-e5cc05f3eca9
+- identifier: dff6b09d-c2f7-4f6b-b9fc-07b676053694
   name: p1
   pageRef: /pages/p1
-  weight: 20
-- identifier: d097a01a-7f7d-49fd-bb51-a10fa6ddb085
-  name: gallery
-  pageRef: /video_galleries/gal-1
-  weight: 30
-- identifier: 39c08dc0-8739-4353-a89b-1040c1d56540
-  name: image
-  pageRef: /resources/test1_png
-  weight: 40
+  weight: 10
