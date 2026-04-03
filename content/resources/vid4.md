@@ -19,7 +19,7 @@ video_files:
   archive_url: ''
   video_captions_file: /courses/1-test-spring-2001/E8uZtq_vOYM_captions.webvtt
   video_captions_resource:
-    content: ''
+    content: 9e97ef05-492d-40e1-8f6c-faff06d213cf
     website: test
   video_thumbnail_file: https://img.youtube.com/vi/E8uZtq_vOYM/default.jpg
   video_transcript_file: /courses/1-test-spring-2001/E8uZtq_vOYM_transcript.pdf
