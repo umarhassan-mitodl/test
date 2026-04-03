@@ -16,7 +16,7 @@ level: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
 title: test1.png
-uid: 71a0acb7-dfc3-4532-a160-f606f422aa8f
+uid: b6bdb27b-9292-4e8b-a4a4-6a79ea7ac8cb
 video_files:
   archive_url: ''
   video_captions_file: ''
