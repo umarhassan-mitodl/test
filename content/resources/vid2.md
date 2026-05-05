@@ -14,7 +14,7 @@ level: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: vid
-uid: 13dacb32-2c8a-45a3-81a9-07f00cd5e8e9
+uid: 6af1758e-3227-4896-9431-3311b2b8312f
 video_files:
   archive_url: ''
   video_captions_file: ''
@@ -33,4 +33,3 @@ video_metadata:
   youtube_description: ''
   youtube_id: E8uZtq_vOYM
 ---
-vid

@@ -3,7 +3,7 @@ audience: []
 content_type: resource
 draft: false
 file: null
-file_size: ''
+file_size: null
 file_type: ''
 image_metadata:
   caption: ''
@@ -14,20 +14,20 @@ level: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: vid
-uid: da327023-60e1-481d-9708-0d11cb4fb4df
+uid: 027ad443-4724-4eba-a780-20b6ab947e1b
 video_files:
   archive_url: ''
-  video_captions_file: null
+  video_captions_file: /courses/1-test-spring-2001/E8uZtq_vOYM_captions.webvtt
   video_captions_resource:
     content: ''
     website: test
-  video_thumbnail_file: ''
-  video_transcript_file: null
+  video_thumbnail_file: https://img.youtube.com/vi/E8uZtq_vOYM/default.jpg
+  video_transcript_file: /courses/1-test-spring-2001/E8uZtq_vOYM_transcript.pdf
   video_transcript_resource:
     content: ''
     website: test
 video_metadata:
-  source: ''
+  source: youtube
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
