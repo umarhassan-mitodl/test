@@ -17,10 +17,12 @@ title: vid
 uid: da327023-60e1-481d-9708-0d11cb4fb4df
 video_files:
   archive_url: ''
+  video_captions_file: null
   video_captions_resource:
     content: ''
     website: test
   video_thumbnail_file: ''
+  video_transcript_file: null
   video_transcript_resource:
     content: ''
     website: test
@@ -29,5 +31,5 @@ video_metadata:
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
-  youtube_id: ''
+  youtube_id: E8uZtq_vOYM
 ---
