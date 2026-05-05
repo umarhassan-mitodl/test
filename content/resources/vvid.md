@@ -13,8 +13,8 @@ learning_resource_types: []
 level: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: vid
-uid: 6af1758e-3227-4896-9431-3311b2b8312f
+title: vvid
+uid: a77a6557-b6be-4576-880d-98b3f3faed47
 video_files:
   archive_url: ''
   video_captions_file: ''
