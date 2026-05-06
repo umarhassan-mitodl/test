@@ -4,7 +4,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/1-test-spring-2001/sample_en_us.vtt
-file_size: 0
+file_size: 132
 file_type: text/vtt
 gdrive_url: ''
 image_metadata:
