@@ -22,8 +22,16 @@ video_files:
   video_captions_file: ''
   video_captions_resource: ''
   video_thumbnail_file: ''
-  video_transcript_file: ''
-  video_transcript_resource: ''
+  video_transcript_file:
+  - file: /courses/1-test-spring-2001/sample_en_us.pdf
+    language: en
+  - file: /courses/1-test-spring-2001/sample_en_us.vtt
+    language: en
+  video_transcript_resource:
+    content:
+    - a9f798d6-9d32-446a-9383-0d55017c9e71
+    - 004a44c8-9b1b-466c-aef6-18025b6ed923
+    website: test
 video_metadata:
   source: ''
   video_speakers: ''
