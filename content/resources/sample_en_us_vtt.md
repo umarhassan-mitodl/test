@@ -3,9 +3,9 @@ audience: []
 body: ''
 content_type: resource
 draft: false
-file: /courses/1-test-spring-2001/test1.png
-file_size: 403661
-file_type: image/png
+file: /courses/1-test-spring-2001/sample_en_us.vtt
+file_size: 132
+file_type: text/vtt
 gdrive_url: ''
 image_metadata:
   caption: ''
@@ -14,9 +14,9 @@ image_metadata:
 learning_resource_types: []
 level: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-resourcetype: Image
-title: test1.png
-uid: b6bdb27b-9292-4e8b-a4a4-6a79ea7ac8cb
+resourcetype: Document
+title: sample_en_US.vtt
+uid: a9f798d6-9d32-446a-9383-0d55017c9e71
 video_files:
   archive_url: ''
   video_captions_file: ''
