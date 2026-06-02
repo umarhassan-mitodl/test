@@ -31,7 +31,7 @@ video_files:
 video_metadata:
   source: ''
   video_speakers: ''
-  video_tags: ''
+  video_tags: 1-test-spring-2001, pri-test-spring-2001, tag1, tag2, tag3
   youtube_description: ''
   youtube_id: E8uZtq_vOYM
 ---
