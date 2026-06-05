@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 backup_url: ''
 content_type: external-resource
 external_url: http://abc.com/
