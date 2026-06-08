@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 backup_url: ''
 content_type: external-resource
