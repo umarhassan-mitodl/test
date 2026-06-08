@@ -1,7 +1,7 @@
 ---
 _build:
-  list: false
-  render: true
+  list: true
+  render: false
 backup_url: ''
 content_type: external-resource
 external_url: http://abc.com/
