@@ -16,7 +16,7 @@ level: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: sample.mp4
-uid: 011fb459-ee70-4abd-8b2e-3c316c2ff779
+uid: dd845971-d4de-49e2-a9aa-77eb072d9b93
 video_files:
   archive_url: ''
   video_captions_file: ''
