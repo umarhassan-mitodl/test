@@ -16,11 +16,13 @@ level: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
 title: test1.png
-uid: b6bdb27b-9292-4e8b-a4a4-6a79ea7ac8cb
+uid: a51ce703-4514-4288-a001-0c172519a8f1
 video_files:
   archive_url: ''
+  video_captions_file: ''
   video_captions_resource: ''
   video_thumbnail_file: ''
+  video_transcript_file: ''
   video_transcript_resource: ''
 video_metadata:
   source: ''
