@@ -19,8 +19,7 @@ uid: 15482426-7900-4087-a136-8996c3165931
 
 \\(1 + 1 < 3\\)
 
-  
-aardvark  
-bold and italic and a link          \<- apply bold, italic and a link from the toolbar  
-beaver  
-chickadee
+- aardvark   
+    bold and italic and a link          \\\<- apply bold, italic and a link from the toolbar   
+    beaver   
+    chickadee
