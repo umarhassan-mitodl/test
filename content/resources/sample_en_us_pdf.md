@@ -3,7 +3,7 @@ audience: []
 body: ''
 content_type: resource
 draft: false
-file: /courses/1-test-spring-2001/sample_en_us.pdf
+file: /ol-ocw-studio-app-local/courses/test/sample_en_us.pdf
 file_size: 20699
 file_type: application/pdf
 gdrive_url: ''
@@ -11,19 +11,19 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+language: ''
 learning_resource_types: []
 level: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+locale: ''
 resourcetype: Document
 title: sample
-uid: 426a9651-3d1f-4ae6-9a64-fa5c03b3a4ba
+uid: 4d79a044-d191-4142-bb6a-21962d26be00
 video_files:
   archive_url: ''
-  video_captions_file: ''
-  video_captions_resource: ''
+  video_captions_resources: []
   video_thumbnail_file: ''
-  video_transcript_file: ''
-  video_transcript_resource: ''
+  video_transcript_resources: []
 video_metadata:
   source: ''
   video_speakers: ''

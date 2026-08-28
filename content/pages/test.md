@@ -1,16 +1,36 @@
 ---
+audience: []
 content_type: page
-description: p
+description: test
 draft: false
-title: p
-uid: 6b43d92f-30b3-421c-a2aa-7ef712360527
+learning_resource_types: []
+level: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+title: test
+uid: 15482426-7900-4087-a136-8996c3165931
 ---
-[URL](https://commons.wikimedia.org/wiki/File:Saint_Joseph_charpentier_%28La_Tour%29.jpg)
+{{% resource_link "4d79a044-d191-4142-bb6a-21962d26be00" "sample" %}}
 
-[URL2](https://commons.m.wikimedia.org/wiki/File:Louis_Robert_as_a_child_%281843%29_Jean-Baptiste-Camille_Corot_%28Louvre%29.jpg)
+{{% resource_link "5bc145f1-4475-4da8-b1b0-5ae59e16366d" "sample.mp4" %}}
 
-[URL3](https://commons.wikimedia.org/wiki/File:A_Martyr_or_The_Violette_Merchant_%28c._1885_-_Fernand_Pelez%29.jp)
+\\(x^2 + y^2 = z^2\\)
 
-https://commons.wikimedia.org/wiki/File:Saint_Joseph_charpentier_(La_Tour).jpg
+\\(a\_1 + b\_2\\)
 
-[URL4](http://google/with_%28asd%29/asd)
+\\(1 + 1 < 3\\)
+
+
+- aardvark
+- **bold** and *italic* and a [link](https://example.com/)
+- chickadee
+    - nested bullet
+    - another nested bullet
+
+1. first
+2. second
+    - nested under ordered
+    - another nested
+3. third
+
+- beaver
+    second paragraph in the same item
