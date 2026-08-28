@@ -1,5 +1,21 @@
 leftnav:
-- identifier: dff6b09d-c2f7-4f6b-b9fc-07b676053694
-  name: p1
-  pageRef: /pages/p1
+- identifier: ecb4b41f-f0dd-4454-ba00-9f54d66a6a25
+  name: Test Page
+  pageRef: /pages/fire-test-object-data-base64-data-uri
   weight: 10
+- identifier: c7613fb3-8620-49ac-b909-d5ca7db9fdcb
+  name: Test Page
+  pageRef: /pages/fire-test-iframe-src-base64-data-uri
+  weight: 20
+- identifier: fb44664c-eba0-4ab1-9ceb-adc68a810cff
+  name: Test Page
+  pageRef: /pages/fire-test-tab-inside-javascript-scheme
+  weight: 30
+- identifier: 55138ad3-70f3-41ce-9dc8-b5f3c6cf9f8d
+  name: Test Page
+  pageRef: /pages/fire-test-markdown-link-entity-encoded-javascript
+  weight: 40
+- identifier: ad5c1691-9735-47d7-991c-53162a55657f
+  name: Test Page
+  pageRef: /pages/fire-test-iframe-srcdoc-entity-encoded-script
+  weight: 50
