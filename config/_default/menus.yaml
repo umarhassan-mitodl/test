@@ -1,17 +1,21 @@
 leftnav:
-- identifier: 9d1ef747-90e4-42bb-87e6-3009a6d9bdb8
-  name: vid
-  pageRef: /resources/samplevideo_1280x720_1mb_mp4
+- identifier: ecb4b41f-f0dd-4454-ba00-9f54d66a6a25
+  name: Test Page
+  pageRef: /pages/fire-test-object-data-base64-data-uri
   weight: 10
-- identifier: 398a0d1a-8aa6-497b-9723-e5cc05f3eca9
-  name: p1
-  pageRef: /pages/p1
+- identifier: c7613fb3-8620-49ac-b909-d5ca7db9fdcb
+  name: Test Page
+  pageRef: /pages/fire-test-iframe-src-base64-data-uri
   weight: 20
-- identifier: d097a01a-7f7d-49fd-bb51-a10fa6ddb085
-  name: gallery
-  pageRef: /video_galleries/gal-1
+- identifier: fb44664c-eba0-4ab1-9ceb-adc68a810cff
+  name: Test Page
+  pageRef: /pages/fire-test-tab-inside-javascript-scheme
   weight: 30
-- identifier: 39c08dc0-8739-4353-a89b-1040c1d56540
-  name: image
-  pageRef: /resources/test1_png
+- identifier: 55138ad3-70f3-41ce-9dc8-b5f3c6cf9f8d
+  name: Test Page
+  pageRef: /pages/fire-test-markdown-link-entity-encoded-javascript
   weight: 40
+- identifier: ad5c1691-9735-47d7-991c-53162a55657f
+  name: Test Page
+  pageRef: /pages/fire-test-iframe-srcdoc-entity-encoded-script
+  weight: 50

@@ -3,9 +3,9 @@ audience: []
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app-local/courses/test/test1.png
-file_size: 403661
-file_type: image/png
+file: /ol-ocw-studio-app-local/gdrive_uploads/test/1JbPQWFgRQ3lrbtEZKRLW8er1HyCg8aXK/sample.mp4
+file_size: 1055736
+file_type: video/mp4
 gdrive_url: ''
 image_metadata:
   caption: ''
@@ -16,9 +16,9 @@ learning_resource_types: []
 level: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 locale: ''
-resourcetype: Image
-title: test1.png
-uid: ae05171f-2b2f-4d01-a471-eff8ab74cfed
+resourcetype: Video
+title: sample.mp4
+uid: 5bc145f1-4475-4da8-b1b0-5ae59e16366d
 video_files:
   archive_url: ''
   video_captions_resources: []
