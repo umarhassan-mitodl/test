@@ -7,8 +7,8 @@ file: null
 file_size: ''
 file_type: ''
 image_metadata:
-  caption: 'Water is H<sub>2</sub>O and Einstein said E=mc<sup>2</sup>. Legacy shortcode:
-    X{{\< sub 2 >}} and Y{{\< sup 3 >}}. EDITED'
+  caption: 'Water is H2O and Einstein said E=mc2. Legacy shortcode: X{{\< sub 2 >}}
+    and Y{{\< sup 3 >}}. EDITED'
 language: en
 learning_resource_types: []
 level: []
