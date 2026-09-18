@@ -18,14 +18,14 @@
   "course_title": "test",
   "hide_download": true,
   "mit_learn_topics": [],
-  "course_description": "",
+  "course_description": "test",
   "department_numbers": [
     "1"
   ],
   "extra_course_numbers": "",
   "primary_course_number": "1",
   "learning_resource_types": [],
-  "site_uid": "166fba86-826c-4518-a5e7-a48b2b7b59a8",
+  "site_uid": "a61bc9f3-0537-445b-acc6-bc270eed79b4",
   "site_short_id": "test",
   "site_url_path": "courses/1-test-spring-2001"
 }
